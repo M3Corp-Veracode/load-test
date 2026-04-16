@@ -1,6 +1,6 @@
 # Load Runner for Veracode Scanner
 
-Original script by Rafael Maia de Amorim
+Original script by Rafael Maia de Amorim.
 
 ## About
 This script contains two executable python files:
